@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Application"
 include(":app")
- 
+include(":app:calculator")
+include(":app:expensify")
+include(":app:unitconverter")
