@@ -32,7 +32,7 @@ android {
 }
 
 dependencies {
-
+    implementation("org.mariuszgromada.math:MathParser.org-mXparser:4.0.0")
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
